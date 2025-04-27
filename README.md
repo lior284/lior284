@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- I'm an 11th-grade student in Israel 💙🤍
+- I'm an 11th-grade student in Israel 💙🤍 🇮🇱
 - I love coding and anything related to it 👨🏻‍💻🤖
 - I would love to help you in any way I can 🤗💪🏻
+- I'm a vegan and an Apple geek :) 🌱🍎
 <!--
 **lior284/lior284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
